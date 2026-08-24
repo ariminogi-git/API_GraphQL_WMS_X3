@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "Code": 110,
+      "Desi": "Ovy",
+      "PrixU": 2000,
+      "DLV": "46621",
+      "Etat": "Oui"
+    },
+    {
+      "Code": 111,
+      "Desi": "Vary",
+      "PrixU": 1200,
+      "DLV": "46347",
+      "Etat": "Oui"
+    },
+    {
+      "Code": 112,
+      "Desi": "Hena",
+      "PrixU": 5000,
+      "DLV": "46257",
+      "Etat": "Non"
+    },
+    {
+      "Code": 113,
+      "Desi": "Pates",
+      "PrixU": 2400,
+      "DLV": "46319",
+      "Etat": "Non"
+    },
+    {
+      "Code": 114,
+      "Desi": "Coca",
+      "PrixU": 3000,
+      "DLV": "46258",
+      "Etat": "Non"
+    }
+  ]
+}

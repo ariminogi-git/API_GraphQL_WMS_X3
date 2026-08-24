@@ -1,0 +1,23 @@
+{
+  "name": "graphql-x3",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "@types/node": "^26.2.0",
+    "csv-parser": "^3.2.1",
+    "graphql": "^16.14.2",
+    "save-dev": "^0.0.1-security",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
